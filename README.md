@@ -5,7 +5,14 @@ Estado
 Estado registral: Documento presentado para su inscripción en el Registro de la Propiedad Intelectual. Expediente en tramitación.
 Estado del proyecto: Propuesta preliminar en desarrollo, abierta a análisis, crítica y validación futura.
 Documentos
+
 Descargar SIEDL v1.0 preliminar
+Este proyecto forma parte de la línea de métodos y propuestas desarrolladas por Alberto Martínez García.
+
+Métodos publicados por el autor:
+- Congruencia Viva
+- SIEDL — Sistema de Incentivación Educativa y Dignificación Laboral
+- Método de Intuición de Respuestas Cerradas / Lectura de Silencios
 Autor
 Alberto Martínez García
 Todos los derechos reservados.
